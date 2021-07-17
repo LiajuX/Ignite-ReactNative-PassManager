@@ -43,6 +43,7 @@ export function AppRoutes() {
         }}
         component={Home}
       />
+      
       <Screen
         name="RegisterLoginData"
         options={{
