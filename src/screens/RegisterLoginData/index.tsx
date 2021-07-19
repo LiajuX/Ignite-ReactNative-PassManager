@@ -6,7 +6,6 @@ import * as Yup from 'yup';
 import { yupResolver } from '@hookform/resolvers/yup';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import uuid from 'react-native-uuid';
-import { useNavigation } from '@react-navigation/native';
 
 import { Input } from '../../components/Form/Input';
 import { Button } from '../../components/Form/Button';
